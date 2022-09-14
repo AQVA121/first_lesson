@@ -18,3 +18,23 @@ p{
   font-size: 10px;
   color: red;
 }
+
+.block1{
+  width: 200px;
+  background: red;
+  padding: 5px;
+  padding-right: 20px;
+  border: solid 1px black;
+  float: left;
+}
+
+.block2{
+  width: 200px;
+  background: #fc8;
+  padding: 5px;
+  position: relative;
+  border:solid 1px black;
+  float: left;
+  top: -20px;
+  left: 80px;
+}
