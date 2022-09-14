@@ -2,6 +2,7 @@ body{
 width: 260px;
 font-size:16px;
 background-color:#9ad717;
+font-family: "Lobster", cursive;
 }
 
 h1{
@@ -14,7 +15,7 @@ li{
 }
 
 p{
-  font-family:sans-serif;
+  font-family:Sans-Serif;
   font-size: 10px;
   color: red;
 }
@@ -37,4 +38,14 @@ p{
   float: left;
   top: -20px;
   left: 80px;
+}
+
+.block{
+  display: inline-block;
+  vertical-aligh: top;
+  width: 100px;
+  margin: 0 5px;
+  text-align: center;
+  background-repeat: no-repeat:no-repeat;
+  background-position: cetner top;
 }
