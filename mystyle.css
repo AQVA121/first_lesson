@@ -12,3 +12,8 @@ h1{
 li{
   list-style:square;
 }
+
+p{
+  font-family:sans-serif;
+  font-size: 10px;
+}
