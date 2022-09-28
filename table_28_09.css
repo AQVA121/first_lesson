@@ -1,0 +1,33 @@
+.table_block {
+  border-radius: 10px 10px 10px 10px;
+  border: 2px solid black;
+  width: 600px;
+  border-spacing:2px;
+  background-image: url("img/keks-background.jpg") ;
+  background-repeat: no-repeat;
+}
+ thead{
+   font-size: 40px;
+   background: yellow;
+   padding: 50px;
+ }
+
+ tbody {
+     background: #2fffaf; /* Цвет фона ячеек*/
+   font-size: 10px;
+   }
+
+ td{
+   border-radius: 10px 10px 10px 10px;
+   height: 40px;
+ }
+tr{
+
+}
+figure {
+  display: table;
+}
+figcaption {
+  display: table-caption;
+  caption-side: bottom;
+}
